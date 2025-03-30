@@ -67,7 +67,7 @@ You will be able to play against the AI, which will always make the optimal move
 The AI plays optimally and will never lose. The best outcome a human player can achieve is a draw if they also play optimally.
 
 ## License
-This project is for educational purposes and follows Harvard's CS80's AI curriculum.
+This project is for educational purposes and follows Harvard's CS80 AI curriculum.
 
 ## Acknowledgments
 - CS80 AI Course for project inspiration.
